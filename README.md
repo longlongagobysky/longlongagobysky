@@ -1,6 +1,6 @@
 ### Hi there, I'm [LongLongAgo][website] 👋
 
-- 🔭 I'm currently working on a [personal project]!
+- 🔭 I'm currently working on a [personal project][github]!
 - 🌱 I'm currently learning UI/UX Design for the web and desktop apps
 - 👯 I'm looking to collaborate with other developers
 - 🥅 2022 Goals: Give impact to society
@@ -9,10 +9,10 @@
 ### Connect with me:
 
 [<img align="left" alt="thalhammer.it" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/globe.svg" />][website]
-[<img align="left" alt="Dominik Thalhammer | LinkedIn" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Dominik Thalhammer | LinkedIn" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/linkedin.svg" />]
 [<img align="left" alt="Thalhammer | Github" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/github.svg" />][github]
 [<img align="left" alt="Thalhammer | Gitlab" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/gitlab.svg" />][gitlab]
-[<img align="left" alt="Thalhammer | Matrix" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/matrix.svg" />][matrix]
+[<img align="left" alt="Thalhammer | Matrix" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/matrix.svg" />]
 
 <br />
 
