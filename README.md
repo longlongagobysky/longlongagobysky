@@ -1,6 +1,6 @@
 ### Hi there, I'm [LongLongAgo][website] 👋
 
-- 🔭 I'm currently working on a [personal project][psone]!
+- 🔭 I'm currently working on a [personal project]!
 - 🌱 I'm currently learning UI/UX Design for the web and desktop apps
 - 👯 I'm looking to collaborate with other developers
 - 🥅 2022 Goals: Give impact to society
