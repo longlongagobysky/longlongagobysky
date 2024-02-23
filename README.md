@@ -8,11 +8,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="thalhammer.it" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/globe.svg" />][website]
-[<img align="left" alt="Dominik Thalhammer | LinkedIn" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/linkedin.svg" />]
-[<img align="left" alt="Thalhammer | Github" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/github.svg" />][github]
-[<img align="left" alt="Thalhammer | Gitlab" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/gitlab.svg" />][gitlab]
-[<img align="left" alt="Thalhammer | Matrix" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/matrix.svg" />]
+[<img align="left" alt="longlongagobysky.it" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/globe.svg" />][website]
+[<img align="left" alt="longlongagobysky | Github" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/github.svg" />][github]
+[<img align="left" alt="longlongagobysky | Gitlab" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/gitlab.svg" />][gitlab]
 
 <br />
 
