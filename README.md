@@ -34,8 +34,8 @@
 <br />
 <br />
 
-<img align="left" alt="Thalhammer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=longlongagobysky&show_icons=true&hide_border=true&count_private=true" />
-<img align="left" alt="Thalhammer's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longlongagobysky&hide_border=true&layout=compact" />
+<img align="left" alt="Thalhammer's Github Stats" src="https://github-readme-stats-silk-eta-48.vercel.app/api?username=longlongagobysky&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Thalhammer's Github Stats" src="https://github-readme-stats-silk-eta-48.vercel.app/api/top-langs/?username=longlongagobysky&hide_border=true&layout=compact" />
 
 [website]: https://longlongagobysky.it/
 [github]: https://github.com/longlongagobysky/
