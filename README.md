@@ -37,7 +37,6 @@
 <img align="left" alt="longlongagobysky's Github Stats" src="https://github-readme-stats-silk-eta-48.vercel.app/api?username=longlongagobysky&show_icons=true&count_private=true&theme=ambient_gradient&include_all_commits=true" />
 <img align="left" alt="longlongagobysky's Github Stats" src="https://github-readme-stats-silk-eta-48.vercel.app/api/top-langs/?username=longlongagobysky" />
 
-[![Top Langs](https://github-readme-stats-silk-eta-48.vercel.app/api/top-langs/?username=longlongagobysky)](https://github.com/longlongagobysky/github-readme-stats)
 
 [website]: https://longlongagobysky.it/
 [github]: https://github.com/longlongagobysky/
